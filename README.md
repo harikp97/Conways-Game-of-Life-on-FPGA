@@ -9,6 +9,6 @@ amount of time (for the pattern transition to be clearly visible), the next stat
 of each cell is found based on the current state of the cells and the corresponding
 bit value modified.
 
-INSTRUCTIONS
+INSTRUCTIONS  
 Set 'vga.vhd' as the top level entity. 
 The initial condition can be set by changing the value of the bit-vector in the code.
